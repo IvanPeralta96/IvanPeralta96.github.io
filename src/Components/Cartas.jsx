@@ -5,7 +5,7 @@ export default function Cartas() {
 
   const Letters = [{
     name: "Carta Feliz Cumpleaños 2022 (Ana)",
-    imag: "Cartas/FcAna2022.png"
+    imag: "Cartas/fcAna2022.png"
   },{
     name: "Carta Feliz Cumpleaños 2021 (Ana)",
     imag: "Cartas/FcAna2021.png"
